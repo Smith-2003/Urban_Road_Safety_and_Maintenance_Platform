@@ -16,3 +16,26 @@ Detect and map potholes in Casablanca using the YOLOv5 computer vision model. Tr
    ```bash
    git clone https://github.com/yuguerten/Casablanca-Pothole-Detection.git
    cd Casablanca-Pothole-Detection
+2. **Explore the Notebook:**
+
+   Open and explore the Colab notebook for detailed insights into the model, training, and testing.
+
+3. **Contribute:**
+
+   Feel free to contribute to the project by raising issues or submitting pull requests.
+
+## Dependencies
+
+- Python 3.x
+- YOLOv5
+- Jupyter Notebook
+
+## Acknowledgments
+
+- [Roboflow](https://universe.roboflow.com/aegis/pothole-detection-i00zy) for the Aegis Pothole Detection dataset.
+- The "Save Casablanca" Facebook group for contributing real-world images for testing.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+```
