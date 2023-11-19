@@ -26,9 +26,9 @@ Detect and map potholes in Casablanca using the YOLOv5 computer vision model. Tr
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.11
 - YOLOv5
-- Jupyter Notebook
+- Google Colab
 
 ## Acknowledgments
 
