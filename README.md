@@ -1,4 +1,4 @@
-# Casablanca Pothole Detection Project
+# Casablanca Potholes Detection Project
 
 Detect and map potholes in Casablanca using the YOLOv5 computer vision model. Trained on a dataset from Roboflow's Aegis Pothole Detection and rigorously tested with real-world images from the "Save Casablanca" Facebook group, this project aims to deploy the model on a drone for efficient and proactive road maintenance.
 
