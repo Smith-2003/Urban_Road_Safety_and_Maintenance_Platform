@@ -14,8 +14,8 @@ Detect and map potholes in Casablanca using the YOLOv5 computer vision model. Tr
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yuguerten/Casablanca-Pothole-Detection.git
-   cd Casablanca-Pothole-Detection
+   git clone https://github.com/yuguerten/Casablanca-Potholes-Detection.git
+   cd Casablanca-Potholes-Detection
 2. **Explore the Notebook:**
 
    Open and explore the Colab notebook for detailed insights into the model, training, and testing.
